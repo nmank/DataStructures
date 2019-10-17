@@ -1,0 +1,31 @@
+depth traverse
+2
+3
+8
+4
+9
+10
+1
+6
+7
+breadth traverse
+2
+3
+10
+5
+8
+9
+1
+6
+7
+4
+3
+5
+4
+0
+8
+not working
+3
+2
+10
+7

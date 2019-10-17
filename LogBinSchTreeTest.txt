@@ -1,0 +1,64 @@
+The tree is empty.
+the height is 0
+the tree does not contain joe
+the tree is balanced
+insert luke
+insert bob
+insert nate
+insert karen
+the tree is balanced
+insert frank
+insert joe
+insert colin
+the size is 7
+the root isluke
+the elements in order: 
+
+bob
+colin
+frank
+joe
+karen
+luke
+nate
+the elements pre order: 
+
+luke
+bob
+karen
+frank
+colin
+joe
+nate
+the elements post order: 
+
+colin
+joe
+frank
+karen
+bob
+nate
+luke
+the elements level order: 
+
+luke
+bob
+nate
+karen
+frank
+colin
+joe
+the tree contains joe
+the height is 4
+the tree is not balanced
+nate has been removed
+the elements in order: 
+
+bob
+colin
+frank
+joe
+karen
+luke
+the size is 6
+the tree is not empty

@@ -1,0 +1,18 @@
+The list is empty.
+push (in order): luke, bob, nate, jack, joe, colin
+peek at the top colin
+the length is 6
+pushed carl
+peek at the top carl
+the length is 7
+pop: carl
+the length is 6
+peek at the top colin
+popped: colin
+the length is5
+The array is not empty
+popped: joe
+popped: jack
+popped: nate
+popped: bob
+popped: luke

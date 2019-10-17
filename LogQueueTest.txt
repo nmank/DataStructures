@@ -1,0 +1,18 @@
+The list is empty.
+enqueueing (in order): luke, bob, nate, jack, joe, colin
+look at the top luke
+the length is 6
+enqueued carl
+look at the top luke
+the length is 7
+dequeue: luke
+the length is 6
+look at the top bob
+dequeue: bob
+the length is5
+The array is not empty
+dequeue: nate
+dequeue: jack
+dequeue: joe
+dequeue: colin
+dequeue: carl

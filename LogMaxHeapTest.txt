@@ -1,0 +1,6 @@
+Added elements: 1, 3, 6, 14, 13, 12, 100, 15, 3, 10
+the max element is 100
+the removed max element is 100
+the new max element is 15
+Added 16
+the new max element is 16

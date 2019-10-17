@@ -1,0 +1,37 @@
+The list is empty.
+luke added to the back of the list
+bob added to the back of the list
+nate added to the front of the list
+karen is added after luke
+joe is added to the back of the list
+colin is inserted at position 3
+the length is 6
+all the donors in order starting at location 0
+nate
+luke
+karen
+colin
+bob
+joe
+removed: nate from the front of the list
+the first donor is luke
+removed: joe from the back of the list
+the last donor is bob
+bob was removed
+the length is 3
+all the donors in order starting at location 0
+luke
+karen
+colin
+the first donor is luke
+the last donor is colin
+the donor at position 2 is colin
+the length is 3
+The array is not empty
+karen is there
+Bob is not there
+remove the donors from the back of the list
+colin
+karen
+luke
+The array is empty

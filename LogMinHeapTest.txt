@@ -1,0 +1,6 @@
+Added elements: 1, 3, 6, 14, 13, 12, 100, 15, 3, 10
+the min element is 1
+the removed min element is 1
+the new min element is 3
+Added 16
+the new min element is 3
